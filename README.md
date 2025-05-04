@@ -71,7 +71,7 @@ curl "http://localhost:3000/search?name=Hanif%20Aditia"
 
 ### Purpose
 
-Automated web scraping of [detik.com](https://www.detik.com) and cleanup of old data (older than 30 days).
+Automated web scraping of [detik.com](https://www.detik.com) and cleanup of old data (older than 30 days). It will collect title and link for the latest news
 
 ### Structure
 
