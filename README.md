@@ -128,7 +128,7 @@ run SQL query in table.sql to create table
    - All Engineers' salary updated to **$85**
 
 3. **Calculate Total Salary in 2021**
-   - If salary is **monthly** or **yearly**, adjust accordingly
+   - SQL query for **monthly** or **yearly** salary
 
 4. **Sort Top 3 Employees by Experience**
 
