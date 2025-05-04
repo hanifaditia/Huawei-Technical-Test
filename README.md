@@ -36,6 +36,12 @@ npm install express cors
 node Backend.js
 ```
 
+or
+
+```bash
+node path/to/Backend.js
+```
+
 ### Testing the API
 
 #### Option 1: Using Frontend
