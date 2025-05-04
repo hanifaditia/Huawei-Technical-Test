@@ -3,19 +3,8 @@
 **Author:** Hanif Aditia Sofian  
 **Email:** hanifaditia.sofian@gmail.com  
 
----
 
-## 📦 Project Overview
-
-This repository includes:
-1. A **Node.js Backend API** to receive and retrieve form data.
-2. A **simple HTML frontend** to interact with the API.
-3. **Automation scripts** using Python and Bash for scraping and data maintenance.
-4. **SQL-based data processing exercises**.
-
----
-
-## 🛠️ Backend API
+## Backend API
 
 ### Features
 
@@ -72,7 +61,7 @@ curl "http://localhost:3000/search?name=Hanif%20Aditia"
 
 ---
 
-## ⚙️ Automation Scripts
+## Automation Scripts
 
 ### Purpose
 
@@ -122,7 +111,7 @@ Add the following cron script:
 
 ---
 
-## 🧮 Data Processing (SQL)
+## Data Processing (SQL)
 
 ### Requirements
 
