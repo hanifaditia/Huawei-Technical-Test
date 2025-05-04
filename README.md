@@ -101,6 +101,9 @@ crontab -e
 ```
 
 Add the following cron script:
+“./scrapping.py” can be change to path to scrapping.py
+“./data_cleansing.sh” can be change to path to data_cleansing.sh
+
 ```
 0 8,12,15 * * * /usr/bin/python3 ./scrapping.py
 0 0 * * * /bin/bash ./data_cleansing.sh
